@@ -1,5 +1,6 @@
 streamlit
 pickle
-numpy
-pandas
+numpy==2.0.2
+pandas==2.2.2
 base64
+sklearn==1.6.1
